@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hello, I'm Almutasim👋
+I am an aspiring cybersecurity professional with strong attention to detail, problem-solving skills, and a willingness to learn. I value integrity, responsibility, and ethical behavior when protecting systems and data. My interest in cybersecurity comes from wanting to understand cyber threats and help keep organizations and users safe. By using my strengths and values, I can help an organization identify risks, follow security policies, and protect sensitive information to support its security goals.
 <!--
 **Almutasimomar/Almutasimomar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
